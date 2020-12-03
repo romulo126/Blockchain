@@ -1,6 +1,5 @@
-Blockchain
+Blockchain Ingles README.md
 ======================================================================
-##### Ingles README.md
 
 ##### Library used:
 	datetime
@@ -22,8 +21,8 @@ Blockchain
 	5: is_chain_valid:
 		Check if the blockchain structure is valid
 
+Blockchain PT-BR README.md
 ======================================================================			
-##### PT-BR README.md
 
 ##### Biblioteca ultizada
 	datetime
